@@ -1,0 +1,1 @@
+export { default } from "file:///D:/Kelas%2012/PKL/Artefy/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
