@@ -1,0 +1,7 @@
+
+# Abaikan folder node_modules
+node_modules/
+
+# Abaikan file backup
+# Abaikan folder output
+.nuxt/
